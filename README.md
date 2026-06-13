@@ -1,4 +1,5 @@
 # xiaoyu-office-tools
+爱发电主页:https://www.ifdian.net/a/xiaoyu_tool
 免费版：基础功能全开 | 付费版：闲鱼搜"小雨办公工具"19.9元激活 | 无需安装，解压即用 | 无广告、纯本地处理
 [README.md](https://github.com/user-attachments/files/28402460/README.md)
 # 小雨办公工具
